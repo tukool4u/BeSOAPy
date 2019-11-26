@@ -1,0 +1,5 @@
+BeSOAPy does not store any information provided and only uses the provided credentials to validate a
+basic rate transaction against FedEx web services. Location information required by the web service
+is hard-coded into the app. BeSOAPy does not require any personal information or sign-up processes to use.
+The credentials required by the FedEx web service are created and administered by FedEx and subject to rules,
+policies, and regulations as determined by FedEx.
